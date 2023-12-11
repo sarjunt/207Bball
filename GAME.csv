@@ -1,0 +1,5 @@
+game_id,home,away,game_date,winner,h_runs,h_hits,h_errors,a_runs,a_hits,a_errors,w_pitcher,l_pitcher,save_pitcher,umpire1,umpire2
+1,Rangers,Diamondbacks,2023-10-28,Rangers,6,9,0,5,8,0,3,11,,7,8
+2,Rangers,Diamondbacks,2023-10-29,Diamondbacks,1,4,0,9,16,0,11,3,,7,8
+3,Twins,Blue Jays,2023-10-25,Twins,3,5,1,1,6,0,22,16,,7,8
+4,Twins,Blue Jays,2023-10-26,Blue Jays,4,12,0,11,15,0,16,22,,7,8
